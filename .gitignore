@@ -1,0 +1,4 @@
+.env 
+let SERVER_PORT = 8765
+CONNECTION_STRING= postgres://iduxitkvpnpuzq:cf9470e7b336b7fce0610ffcf1abfe9fa2fc9e7b9fa57bfd1594addfd39048a5@ec2-18-204-142-254.compute-1.amazonaws.com:5432/d4mme8e1etdi7u
+/node_modules
